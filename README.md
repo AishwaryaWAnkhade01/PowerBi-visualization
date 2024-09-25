@@ -25,12 +25,7 @@ Number of Medications Administered:
 
 Visualization of the number of medications prescribed to patients during their hospital stay.
 
-
 [Download Hospital Readmissions Dashboard](https://github.com/AishwaryaWAnkhade01/PowerBi-visualization/commit/16393d4ac1bbf9d25fb727e55c078605b6b6f141#diff-ed1d082dc7ec6ddd07ce1b5f300eab4c37e87053429eb1b4c5af9e02eb388177)
-
-
-
-
 
 
 
