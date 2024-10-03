@@ -2,7 +2,8 @@ Super Market Data DashBoard
 
 Download:
 [Download Power BI Report (.pbix)](https://github.com/AishwaryaWAnkhade01/PowerBi-visualization/blob/main/supermarket.pbix)
-
+Download Preview:
+[Download Power BI Report Preview (.pbix)]
 Overview:
 This Power BI dashboard provides insights into supermarket sales performance, helping stakeholders track key metrics like total sales, top-selling products, customer behavior, and sales trends over time.
 
